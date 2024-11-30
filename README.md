@@ -29,7 +29,7 @@ CREATE TABLE retail_sales
     quantity INT,
     price_per_unit FLOAT,	
     cogs FLOAT,
-    total_sale FLOAT
+    total_sale FLO0AT
 );
 
 2. Data Exploration & Cleaning
